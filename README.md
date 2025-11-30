@@ -1,36 +1,56 @@
-## Hi there 👋
+# 👋 Hey, I'm Pranshu Jaiswal
 
-I'm a final year undergrad at IIT Madras in Data Science & Applications. I'm passionate about applying machine learning and deep learning to solve real-world problems. My experience includes developing LLM-driven applications, building machine learning models, and conducting data analysis. I'm also keen on sharing my knowledge through teaching and workshops.
+**AI Developer • Machine Learning Engineer • Research Contributor**
 
-## Featured Projects
+I'm an AI developer at **Uncia Technologies, Chennai**. 
+I enjoy building end-to-end AI systems — from models to production APIs — and teaching others through workshops and courses.
 
-Here are some of the projects I've worked on:
+---
 
-* **BharatGen Hackathon:** Contributed to enhancing patient medication adherence by building the expiry date checker component.
-    * Tech Stack:  Trained YOLOv8 model and built Flask APIs.
-* **AutoGrader GPT:** An AI-powered grading application that uses GPT-4.
-    * Tech Stack: Python, Pandas, Gspread, Langchain, Streamlit
-* **Influencer Engagement and Sponsorship Coordination Platform:** A platform for sponsors and influencers to manage campaigns and ad requests.
-    * Tech Stack: Python, Flask, SQLite
-* **Predictive Taxi Fare Model:** A machine learning pipeline for predicting taxi fares.
-    * Tech Stack: Python, Scikit-Learn, Pandas, Kaggle
-* **B2B Stationery Market Analyzer:** A research project involving data analysis and visualization for a B2B wholesale shop.
-    * Tech Stack: Excel
+## 🧠 What I Do
 
-## Experience
+- ⚡ Build production-grade **AI/ML pipelines** for fintech applications  
+- 🧩 Design **AI agents, RAG systems, and automation workflows**  
+- 🔍 Work on **unstructured data extraction**, document intelligence & policy automation  
+- 🧪 Create hands-on workshops on **Deep Learning, GenAI & LLM fine-tuning**  
+- 📊 Lead **AI integration** across cross-functional engineering teams
 
-* **Intern - Technology, Uncia Technologies**
-* **Teaching Assistant @ GenWise**
+---
 
-## Skills
+## 🏆 Highlights
 
-* **Languages:** Java, Python, PostgreSQL, JavaScript, HTML/CSS
-* **Frameworks:** Flask, Langchain, Tensorflow, Pytorch
-* **Tools:** Excel, Git, Google Cloud Platform, VS Code, Visual Studio, PyCharm, PowerBI
-* **Libraries:** Pandas, NumPy, Matplotlib, Scikit-learn, NLTK, spaCy, Keras, OpenCV, Ultralytics
+- **2nd Runners-Up @ BharatGen 2025 (National Hackathon)**  
+  *CureCue – AI-powered medication adherence & expiry-date detection.*
 
-## Workshops
-* Delivered a workshop in Deep Learning @ Shaastra 2025
+- **Research Works (forthcoming & published)**  
+  - Mapping Indo-Swiss Collaborations  
+  - CureCue: Smart Adherence Assistant
 
-## Papers
-* Mapping Indo-Swiss Collaborations, Bharath, S., Jaiswal, P., Bergman, M., & Robra, L. , (Forthcoming)
+---
+
+## 🚀 Featured Projects
+
+### 🔬 IndoSwissCollab.org  
+Full-stack research exploration platform (22k+ publications) with keyword, author & institution-level search.
+
+### 📱 CureCue – AI Healthcare Suite  
+Medication adherence tracking, expiry-date detection (YOLO + OCR), reminders, and voice-based commands.
+
+### 🎭 Influencer Engagement Platform  
+Role-based Flask app for sponsors, influencers & admins with campaign management tools.
+
+---
+
+## 🎓 Teaching & Workshops
+
+- **Shaastra 2025 – IIT Madras:** Intro to Deep Learning (80+ participants)  
+- **Gifted World:** GenAI & data-driven mini-projects  
+- **GenWise:** AI/ML curriculum + GenAI applications  
+
+---
+
+
+## 📫 Connect With Me
+
+- **LinkedIn:** https://www.linkedin.com/in/pransh-jais  
+- **Website:** https://pranshh.github.io
